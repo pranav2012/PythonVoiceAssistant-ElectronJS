@@ -20,7 +20,7 @@ btn.addEventListener("click", function () {
   
   let options = {
     scriptPath:
-      "F:/Python/Python project/Personal Assistante/Personal-Assistant/Assistant_Backend",
+      "/root/pranav/GitHub/PythonVoiceAssistant-ElectronJS/ai",
     args: [],
   };
 

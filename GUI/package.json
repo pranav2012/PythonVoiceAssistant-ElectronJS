@@ -4,9 +4,9 @@
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
+    "start": "electron . --no-sandbox",
     "build": "electron-packager . GUI --all --asar",
-    "dist": "electron-builder -mwl"
+    "dist": "electron-builder -linux"
   },
   "author": "Bhavya kalra",
   "license": "MIT",
