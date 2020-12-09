@@ -1,0 +1,8 @@
+node_modules
+bin
+include
+lib
+lib64
+share
+pyvenv.cfg
+package-lock.json
